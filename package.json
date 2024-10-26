@@ -1,0 +1,14 @@
+{
+  "name": "datastar",
+  "module": "index.js",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.6.3"
+  },
+  "dependencies": {
+    "hono": "^4.6.6"
+  }
+}
